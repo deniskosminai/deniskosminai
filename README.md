@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 ## 🛠️ Стек и технологии / Tech Stack
 
 **Core Expertise:**
-- **AI Architecture:** RAG (ChromaDB, Pinecone, Weaviate, SQLite, Qdrant, FAISS, RAGAS), Agentic AI (LangGraph), Prompt Engineering (Chain-of-Verification).
+- **AI Architecture:** RAG (ChromaDB, Pinecone, Weaviate, SQLite, Qdrant, FAISS, RAGAS), Agentic AI (LangGraph)
 - **LLM Expertise:** Claude (ClaudeCode), GPT-5, GigaChat Pro, YandexGPT, Gemini, DeepSeek, Qwen.
 - **LLM multimodal:** Whisper, Edge TTS, FLUX.1, SDXL
 - **Languages & Backend:** Python (FastAPI, Flask), SQL, Docker, API Orchestration, LangChain.
+- **Prompt Engineering:** Разработка и оптимизация сложных системных промтов с  мета-когнитивной проверкой
+                          и валидацией вывода  (JSON/Pydantic), исключающей ошибки в логике.
 
 **Workflow & Reliability:**
 - **No-code/Low-code:** n8n (локально/облако), Albato, Salebot.
