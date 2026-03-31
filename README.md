@@ -48,6 +48,34 @@ Here are some ideas to get you started:
 ![152-FZ](https://img.shields.io/badge/152--ФЗ-On_Premise-critical)
 ![ISO9001](https://img.shields.io/badge/ISO-9001-blue)
 
+## 🛠️ Стек и технологии / Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat&logo=chroma&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-success)
+![GigaChat](https://img.shields.io/badge/GigaChat-Pro-21A038?style=flat)
+![Gemma 3](https://img.shields.io/badge/Gemma_3_27B-Local-4285F4?style=flat)
+![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5W?style=flat&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat)
+![152-FZ](https://img.shields.io/badge/152--ФЗ-On_Premise-critical)
+
+**Core Expertise:**
+*   **AI Architecture:** RAG (ChromaDB, Pinecone, Weaviate, SQLite, Qdrant, FAISS, RAGAS), Agentic AI (LangGraph).
+*   **LLM Expertise:** Claude (ClaudeCode), GPT-5, GigaChat Pro, YandexGPT, Gemini, DeepSeek, Qwen.
+*   **LLM multimodal:** Whisper, Edge TTS, FLUX.1, SDXL.
+*   **Languages & Backend:** Python (FastAPI, Flask), SQL, Docker, API Orchestration, LangChain.
+*   **Prompt Engineering:** Разработка и оптимизация сложных системных промтов с мета-когнитивной проверкой и валидацией вывода (JSON/Pydantic), исключающей ошибки в логике.
+
+**Workflow & Reliability:**
+*   **No-code/Low-code:** n8n (локально/облако), Albato, Salebot.
+*   **Validation:** Pydantic / Instructor (строгая типизация данных ИИ).
+*   **Monitoring:** Langfuse (LLM Observability), семантическое кэширование (SQLite), GitHub Actions, Docker Compose.
+
+**Business & Marketing:**
+*   **Business:** ISO 9001, 152-ФЗ/44-ФЗ/223-ФЗ, Ozon/WB API.
+*   **Marketing:** SWOT, CJM.
+
 ---
 
 ## 📂 Витрина решений / Showcase (Top 5)
