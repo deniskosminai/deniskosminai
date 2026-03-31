@@ -28,36 +28,26 @@ Here are some ideas to get you started:
 ## 🛠️ Стек и технологии / Tech Stack
 
 **AI Architecture & RAG:**
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat&logo=chroma&logoColor=white) 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-success)
-![DeepVK](https://img.shields.io/badge/DeepVK-Local_Embeddings-0077FF?style=flat)
 
-**LLM & Vision:**
-![GigaChat](https://img.shields.io/badge/GigaChat-Pro-21A038?style=flat)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-Vision-412991?style=flat&logo=openai&logoColor=white)
-![Gemma 3](https://img.shields.io/badge/Gemma_3_27B-Local-4285F4?style=flat)
 
-**Backend & Orchestration:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5W?style=flat&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat)
 
-**Compliance:**
-![152-FZ](https://img.shields.io/badge/152--ФЗ-On_Premise-critical)
-![ISO9001](https://img.shields.io/badge/ISO-9001-blue)
+
+
 
 ## 🛠️ Стек и технологии / Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat&logo=chroma&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![DeepVK](https://img.shields.io/badge/DeepVK-Local_Embeddings-0077FF?style=flat)
 ![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-success)
 ![GigaChat](https://img.shields.io/badge/GigaChat-Pro-21A038?style=flat)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-Vision-412991?style=flat&logo=openai&logoColor=white)
 ![Gemma 3](https://img.shields.io/badge/Gemma_3_27B-Local-4285F4?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5W?style=flat&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat)
+![ISO9001](https://img.shields.io/badge/ISO-9001-blue)
 ![152-FZ](https://img.shields.io/badge/152--ФЗ-On_Premise-critical)
 
 **Core Expertise:**
