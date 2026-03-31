@@ -58,6 +58,40 @@ Here are some ideas to get you started:
 4. [**vision-ai-ecom-pipeline**] — Автоматизация карточек товаров: из фото в Excel за 30 сек.
 5. [**llm-observability-audit**] — Фреймворк мониторинга и оптимизации затрат (Langfuse).
 
+<table border="0">
+  <tr>
+    <!-- КЕЙС 1 -->
+    <td width="50%" align="center">
+      <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_1">
+        <img src="raw/Gemini_Generated_Image_gcac9fgcac9fgcac.png" width="100%" alt="Enterprise RAG">
+      </a>
+      <br><b>Enterprise RAG: On-Premise</b>
+    </td>
+    <!-- КЕЙС 2 -->
+    <td width="50%" align="center">
+      <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_2">
+        <img src="raw/Gemini_Generated_Image_paxa4dpaxa4dpaxa.png" width="100%" alt="CRM Sync">
+      </a>
+      <br><b>n8n CRM Sync (GMU Pattern)</b>
+    </td>
+  </tr>
+  <tr>
+    <!-- КЕЙС 3 -->
+    <td width="50%" align="center">
+      <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_3">
+        <img src="ССЫЛКА_НА_ИЗОБРАЖЕНИЕ_ОБЛОЖКУ_3" width="100%" alt="Content Factory">
+      </a>
+      <br><b>AI Content Factory: 50x Token Economy</b>
+    </td>
+    <!-- КЕЙС 4 -->
+    <td width="50%" align="center">
+      <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_4">
+        <img src="ССЫЛКА_НА_ИЗОБРАЖЕНИЕ_ОБЛОЖКУ_4" width="100%" alt="Vision E-com">
+      </a>
+      <br><b>Vision AI E-com Pipeline</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📈 Измеримые результаты / Hard Stats
