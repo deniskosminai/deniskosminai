@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     <!-- КЕЙС 3 -->
     <td width="50%" align="center">
       <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_3">
-        <img src="raw/17749765761941.png" width="33%" alt="Content Factory">
+        <img src="raw/Gemini_Generated_Image_ymj401ymj401ymj4.png" width="33%" alt="Content Factory">
       </a>
       <br><b>AI Content Factory: 50x Token Economy</b>
     </td>
