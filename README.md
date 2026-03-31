@@ -61,32 +61,32 @@ Here are some ideas to get you started:
 <table border="0">
   <tr>
     <!-- КЕЙС 1 -->
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_1">
-        <img src="raw/Gemini_Generated_Image_gcac9fgcac9fgcac.png" width="33%" alt="Enterprise RAG">
+        <img src="raw/Gemini_Generated_Image_gcac9fgcac9fgcac.png" width="100%" alt="Enterprise RAG">
       </a>
       <br><b>Enterprise RAG: On-Premise</b>
     </td>
     <!-- КЕЙС 2 -->
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_2">
-        <img src="raw/Gemini_Generated_Image_paxa4dpaxa4dpaxa.png" width="33%" alt="CRM Sync">
+        <img src="raw/Gemini_Generated_Image_paxa4dpaxa4dpaxa.png" width="100%" alt="CRM Sync">
       </a>
       <br><b>n8n CRM Sync (GMU Pattern)</b>
     </td>
   </tr>
   <tr>
     <!-- КЕЙС 3 -->
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_3">
-        <img src="raw/Gemini_Generated_Image_ymj401ymj401ymj4.png" width="33%" alt="Content Factory">
+        <img src="raw/Gemini_Generated_Image_ymj401ymj401ymj4.png" width="100%" alt="Content Factory">
       </a>
       <br><b>AI Content Factory: 50x Token Economy</b>
     </td>
     <!-- КЕЙС 4 -->
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_4">
-        <img src="raw/Gemini_Generated_Image_t9bpect9bpect9bp.png" width="33%" alt="Vision E-com">
+        <img src="raw/Gemini_Generated_Image_t9bpect9bpect9bp.png" width="100%" alt="Vision E-com">
       </a>
       <br><b>Vision AI E-com Pipeline</b>
     </td>
