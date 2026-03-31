@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     <!-- КЕЙС 4 -->
     <td width="50%" align="center">
       <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_4">
-        <img src="ССЫЛКА_НА_ИЗОБРАЖЕНИЕ_ОБЛОЖКУ_4" width="100%" alt="Vision E-com">
+        <img src="raw/Gemini_Generated_Image_t9bpect9bpect9bp.png" width="33%" alt="Vision E-com">
       </a>
       <br><b>Vision AI E-com Pipeline</b>
     </td>
