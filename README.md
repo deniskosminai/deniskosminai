@@ -25,14 +25,6 @@ Here are some ideas to get you started:
 - **Production-ready:** 30+ реализованных проекта. 15+ внедрений в закрытых локальных контурах (On-Premise).
 
 ---
-## 🛠️ Стек и технологии / Tech Stack
-
-**AI Architecture & RAG:**
-
-
-
-
-
 
 ## 🛠️ Стек и технологии / Tech Stack
 
