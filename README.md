@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/deniskosminai/ai-content-factory-jsdom">
-        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_3" width="100%" alt="Content Factory">
+        <img src="https://github.com/deniskosminai/ai-content-factory-jsdom/blob/main/img/AI%20CONTENT%20FACTORY.png" width="100%" alt="Content Factory">
       </a>
       <br><b><a href="https://github.com/deniskosminai/ai-content-factory-jsdom">AI Content Factory</a></b>
       <br><i>Конвейер с 50-кратной экономией на API токенах через пре-парсинг.</i>
