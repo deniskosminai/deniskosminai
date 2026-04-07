@@ -109,7 +109,7 @@ Here are some ideas to get you started:
     <td style="width:50%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/llm-observability-audit">
-          <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_5" 
+          <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/LLM%20OBSERVABILITY.png" 
                style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="LLM Observability">
         </a>
         <br><b><a href="https://github.com/deniskosminai/llm-observability-audit">LLM Observability & Audit</a></b>
