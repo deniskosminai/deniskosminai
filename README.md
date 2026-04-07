@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">
-        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_2" width="100%" alt="CRM Sync">
+        <img src="https://github.com/deniskosminai/n8n-crm-sync-gmu/blob/main/img/INDUSTRIAL.png" width="100%" alt="CRM Sync">
       </a>
       <br><b><a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">Industrial CRM Sync (GMU)</a></b>
       <br><i>Промышленный паттерн синхронизации CRM без дублей (Get-Merge-Update).</i>
