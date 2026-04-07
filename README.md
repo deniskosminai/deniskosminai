@@ -99,7 +99,7 @@ Here are some ideas to get you started:
     <td style="width:50%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/vision-ai-ecom-pipeline">
-          <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_4" 
+          <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/VISION%20AI%20PIPELINE.png" 
                style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="Vision E-com">
         </a>
         <br><b><a href="https://github.com/deniskosminai/vision-ai-ecom-pipeline">Vision AI E-com Pipeline</a></b>
