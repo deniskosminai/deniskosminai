@@ -65,46 +65,50 @@ Here are some ideas to get you started:
 
 <table border="0" width="100%">
   <tr>
-    <td width="33.3%" align="center">
+    <td width="33.33%" align="center" style="padding:5px;">
       <a href="https://github.com/deniskosminai/enterprise-rag-152fz">
-        <img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/ENTERPRISE%20RAG%20152-FZ.png" width="100%" alt="Enterprise RAG">
+        <img src="https://raw.githubusercontent.com/deniskosminai/enterprise-rag-152fz/main/img/ENTERPRISE%20RAG%20152-FZ.png" 
+             style="width:100%; height:auto; max-width:100%;" alt="Enterprise RAG">
       </a>
       <br><b><a href="https://github.com/deniskosminai/enterprise-rag-152fz">Enterprise RAG 152-FZ</a></b>
       <br><i>Корпоративная база знаний: On-Premise deployment, точность 80% (RAGAS).</i>
     </td>
-    <td width="33.3%" align="center">
+    <td width="33.33%" align="center" style="padding:5px;">
       <a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">
-        <img src="https://github.com/deniskosminai/n8n-crm-sync-gmu/blob/main/img/INDUSTRIAL.png" width="100%" alt="CRM Sync">
+        <img src="https://raw.githubusercontent.com/deniskosminai/n8n-crm-sync-gmu/main/img/INDUSTRIAL.png" 
+             style="width:100%; height:auto; max-width:100%;" alt="CRM Sync">
       </a>
       <br><b><a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">Industrial CRM Sync (GMU)</a></b>
       <br><i>Промышленный паттерн синхронизации CRM без дублей (Get-Merge-Update).</i>
     </td>
-    <td width="33.3%" align="center">
+    <td width="33.34%" align="center" style="padding:5px;">
       <a href="https://github.com/deniskosminai/ai-content-factory-jsdom">
-        <img src="https://github.com/deniskosminai/ai-content-factory-jsdom/blob/main/img/AI%20CONTENT%20FACTORY.png" width="100%" alt="Content Factory">
+        <img src="https://raw.githubusercontent.com/deniskosminai/ai-content-factory-jsdom/main/img/AI%20CONTENT%20FACTORY.png" 
+             style="width:100%; height:auto; max-width:100%;" alt="Content Factory">
       </a>
       <br><b><a href="https://github.com/deniskosminai/ai-content-factory-jsdom">AI Content Factory</a></b>
       <br><i>Конвейер с 50-кратной экономией на API токенах через пре-парсинг.</i>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="padding:5px;">
       <a href="https://github.com/deniskosminai/vision-ai-ecom-pipeline">
-        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_4" width="80%" alt="Vision E-com">
+        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_4" 
+             style="width:100%; height:auto; max-width:100%;" alt="Vision E-com">
       </a>
       <br><b><a href="https://github.com/deniskosminai/vision-ai-ecom-pipeline">Vision AI E-com Pipeline</a></b>
       <br><i>Автоматизация карточек товаров: из фото в Excel за 30 сек.</i>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="padding:5px;">
       <a href="https://github.com/deniskosminai/llm-observability-audit">
-        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_5" width="80%" alt="LLM Observability">
+        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_5" 
+             style="width:100%; height:auto; max-width:100%;" alt="LLM Observability">
       </a>
       <br><b><a href="https://github.com/deniskosminai/llm-observability-audit">LLM Observability & Audit</a></b>
       <br><i>Фреймворк мониторинга и снижения затрат на LLM на 40% (Langfuse).</i>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🗄️ Архив внедрений (R&D & Automation)
