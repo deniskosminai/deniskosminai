@@ -62,34 +62,33 @@ Here are some ideas to get you started:
 
 ## 📂 Витрина решений / Showcase (Top 5)
 Ниже представлены архитектурные разборы ключевых систем. Исходный код большинства проектов защищен NDA, представлены концепты архитектуры и бизнес-метрики.
-
 <table style="table-layout:fixed; width:100%; border:0;">
   <tr>
-    <td style="width:33.33%; vertical-align:top;">
+    <td style="width:33.333%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/enterprise-rag-152fz">
           <img src="https://raw.githubusercontent.com/deniskosminai/enterprise-rag-152fz/main/img/ENTERPRISE%20RAG%20152-FZ.png" 
-               style="width:100%; height:auto; display:block;" alt="Enterprise RAG">
+               style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="Enterprise RAG">
         </a>
         <br><b><a href="https://github.com/deniskosminai/enterprise-rag-152fz">Enterprise RAG 152-FZ</a></b>
         <br><i>Корпоративная база знаний: On-Premise deployment, точность 80% (RAGAS).</i>
       </div>
     </td>
-    <td style="width:33.33%; vertical-align:top;">
+    <td style="width:33.333%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">
           <img src="https://raw.githubusercontent.com/deniskosminai/n8n-crm-sync-gmu/main/img/INDUSTRIAL.png" 
-               style="width:100%; height:auto; display:block;" alt="CRM Sync">
+               style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="CRM Sync">
         </a>
         <br><b><a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">Industrial CRM Sync (GMU)</a></b>
         <br><i>Промышленный паттерн синхронизации CRM без дублей (Get-Merge-Update).</i>
       </div>
     </td>
-    <td style="width:33.34%; vertical-align:top;">
+    <td style="width:33.334%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/ai-content-factory-jsdom">
           <img src="https://raw.githubusercontent.com/deniskosminai/ai-content-factory-jsdom/main/img/AI%20CONTENT%20FACTORY.png" 
-               style="width:100%; height:auto; display:block;" alt="Content Factory">
+               style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="Content Factory">
         </a>
         <br><b><a href="https://github.com/deniskosminai/ai-content-factory-jsdom">AI Content Factory</a></b>
         <br><i>Конвейер с 50-кратной экономией на API токенах через пре-парсинг.</i>
@@ -100,7 +99,8 @@ Here are some ideas to get you started:
     <td style="width:50%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/vision-ai-ecom-pipeline">
-          <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_4" style="width:100%; height:auto; display:block;" alt="Vision E-com">
+          <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_4" 
+               style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="Vision E-com">
         </a>
         <br><b><a href="https://github.com/deniskosminai/vision-ai-ecom-pipeline">Vision AI E-com Pipeline</a></b>
         <br><i>Автоматизация карточек товаров: из фото в Excel за 30 сек.</i>
@@ -109,7 +109,8 @@ Here are some ideas to get you started:
     <td style="width:50%; vertical-align:top;">
       <div style="text-align:center;">
         <a href="https://github.com/deniskosminai/llm-observability-audit">
-          <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_5" style="width:100%; height:auto; display:block;" alt="LLM Observability">
+          <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_5" 
+               style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="LLM Observability">
         </a>
         <br><b><a href="https://github.com/deniskosminai/llm-observability-audit">LLM Observability & Audit</a></b>
         <br><i>Фреймворк мониторинга и снижения затрат на LLM на 40% (Langfuse).</i>
