@@ -81,7 +81,7 @@ Here are some ideas to get you started:
                style="width:100%; height:180px; object-fit:cover; display:block; max-width:350px;" alt="CRM Sync">
         </a>
         <br><b><a href="https://github.com/deniskosminai/n8n-crm-sync-gmu">Industrial CRM Sync (GMU)</a></b>
-        <br><i>Промышленный паттерн синхронизации CRM без дублей (Get-Merge-Update).</i>
+        <br><i>Промышленный паттерн синхронизации CRM без дублей (GMU).</i>
       </div>
     </td>
     <td style="width:33.334%; vertical-align:top;">
