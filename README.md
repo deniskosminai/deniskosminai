@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/deniskosminai/enterprise-rag-152fz">
-        <img src="ВСТАВИТЬ_ССЫЛКУ_НА_КАРТИНКУ_1" width="100%" alt="Enterprise RAG">
+        <img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/ENTERPRISE%20RAG%20152-FZ.png" width="100%" alt="Enterprise RAG">
       </a>
       <br><b><a href="https://github.com/deniskosminai/enterprise-rag-152fz">Enterprise RAG 152-FZ</a></b>
       <br><i>Корпоративная база знаний: On-Premise deployment, точность 80% (RAGAS).</i>
