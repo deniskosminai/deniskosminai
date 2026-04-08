@@ -163,5 +163,5 @@ Here are some ideas to get you started:
 5.  **Контроль:** Внедрение мониторинга качества ответов и затрат.
 
 ## 📩 Контакты / Contacts
-*   **Telegram:** [@dks_persistent_bot](https://t.me/dks_persistent_bot) — Записаться на аудит процессов или обсудить субподряд.*
+*   **Telegram:** [@dkosmin_ai](https://t.me/dkosmin_ai) — Записаться на аудит процессов или обсудить субподряд.*
 *   **Официальный статус:** ИП / Самозанятый (Работа по договору, NDA, DPA).
